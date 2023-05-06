@@ -28,13 +28,12 @@
   font-weight: 600;
   font-size: 18px;
   line-height: 28px;
-  /* identical to box height, or 156% */
-
   color: #012f34;
-
   border: 2px solid ;
-  color: #012f34;
-  ;
   border-radius: 24px;
   padding: 10px 32px;
+}
+
+.contact_us_container a:hover{
+    color: white;
 }
